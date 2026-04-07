@@ -1,4 +1,7 @@
-extract, start engine.exe, play :3  
+extract, start engine.exe, play :3
+
+
+CONTROLS  
 tab - take control  
 tab again - return cursor  
 left click - place pumpkin  
@@ -7,4 +10,6 @@ F11 - fullscreen
 wasd - base movement  
 space - move up  
 shift - move down  
-say hi to mr.bones!  
+
+
+say hi to mr.bones!
